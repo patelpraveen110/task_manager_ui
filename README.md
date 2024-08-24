@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+######################################################################################
+#commands to run before running the react app
+1. npm install @mui/material @emotion/react @emotion/styled
+this command is to install material-ui
+
+2.npm install -D tailwindcss
+3.npx tailwindcss init
+this command is to install tailwind css
