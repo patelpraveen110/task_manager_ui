@@ -78,7 +78,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #commands to run before running the react app
 1. npm install @mui/material @emotion/react @emotion/styled
 this command is to install material-ui
+commands link : https://mui.com/material-ui/getting-started/installation/
 
 2.npm install -D tailwindcss
 3.npx tailwindcss init
 this command is to install tailwind css
+commands link : https://tailwindcss.com/docs/guides/create-react-app
